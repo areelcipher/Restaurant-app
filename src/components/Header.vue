@@ -88,7 +88,9 @@ export default {
     justify-content: space-around;
     margin: 0;
     width: 100%;
+    height: 30px;
     background-color: #fff;
+    align-items: center;
   }
 
   .nav-one li, .nav-two li {
@@ -144,7 +146,7 @@ export default {
 
   .nav-two li a {
     color: #fff;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   li:hover,
