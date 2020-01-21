@@ -17,13 +17,14 @@ export default {};
   position: relative;
   top: 10vh;
   width: 100%;
-  height: 260px;
+  height: 360px;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   z-index: 500;
+  background: #fff;
 }
 
 #info h1 {

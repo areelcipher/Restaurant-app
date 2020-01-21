@@ -39,6 +39,7 @@ footer {
   text-align: center;
   padding: 2.5em 0;
   font-size: 16px;
+  border-top: 2px solid #272727;
 }
 
 footer a {

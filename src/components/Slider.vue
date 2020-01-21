@@ -38,8 +38,7 @@ export default {
 #slider {
   position: relative;
   top: 10vh;
-  width: 95%;
-  margin: 60px auto;
+  width: 100%;
   z-index: 500;
 
 }

@@ -32,20 +32,21 @@ export default {
 #order-form {
   position: relative;
   top: 10vh;
-  width: 95%;
+  width: 100%;
   margin: 0 auto;
+  background-color: #111;
 }
 
 #order-form p {
-  margin: 50px 0 20px 0;
+  margin: 30px auto 0 auto;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 18px;
   background-color: #111;
   color: #fff;
   padding: 3px 5px;
-  text-align: center;
   display: block;
-  width: 100%;
+  width: 93%;
+  text-align: center;
 }
 
 #order-form form {
@@ -55,26 +56,28 @@ export default {
 }
 
 #order-form label {
-  margin-bottom: 5px;
-  color: #ff0000;
-  font-weight: 500;
+  margin: 10px 0;
+  color: #fff;
+  font-weight: 300;
 }
 
 #order-form input,
 #order-form select {
   margin-bottom: 10px;
-  padding: 5px;
-  border: 1px solid #111;
+  padding: 10px;
+  border: none;
   outline: none;
+  background: #272727;
+  color: #fff;
 }
 
 #order-form select {
-  background-color: #fff;
+  background-color: #272727;
 }
 
 #order-form input[type="button"] {
   margin-top: 10px;
-  background-color: #111;
+  background-color: #272727;
   color: #fff;
 }
 

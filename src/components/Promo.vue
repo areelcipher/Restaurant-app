@@ -31,7 +31,7 @@ export default {};
 }
 
 #promo h4 {
-    margin: 0 0 20px 0;
+    margin: 20px 0 10px 0;
     text-align: center;
     background-color: #111;
     color: #fff;

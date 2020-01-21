@@ -16,4 +16,7 @@ export default {
   html {
     scroll-behavior: smooth;
   }
+  #app {
+      background: #111;
+  }
 </style>
